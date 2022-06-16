@@ -1,0 +1,6 @@
+Fix the way I'm storing things
+
+Probability Calculation 
+
+Bring in database of zebras
+

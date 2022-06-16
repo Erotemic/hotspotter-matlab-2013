@@ -1,0 +1,11 @@
+#imgindex,original_filepath,roi,animal_name,sighting_id,flank,notes,photo_quality,sighting_date,sighting_time,exposure_time,focal_length,aperture_Fnumber,camera_info,sex,age,sighting_location,group_size,gps_lat,gps_lon,reproductive_status
+1, E:\Zebras\mpala_50_set\images/img-0000156.jpg, 1    1  466  186, Fred, , Right, , Bad, 2-0-1, 3::, , , , , Male, , , 0, , , 
+2, E:\Zebras\mpala_50_set\images/img-0000165.jpg, 1    1  608  288, George, , Right, , Bad, 2-0-1, 3::, , , , , Male, , , 0, , , 
+3, E:\Zebras\mpala_50_set\images/img-0000171.jpg, 1    1  674  208, Clarence, , Right, , Bad, 2-0-1, 3::, , , , , Male, , , 0, , , 
+4, E:\Zebras\mpala_50_set\images/img-0000182.jpg, 1    1  721  331, Nister, , Right, , Bad, 2-0-1, 3::, , , , , Male, , , 0, , , 
+5, E:\Zebras\mpala_50_set\images/img-0000209.jpg, 1    1  386  150, Jacob, , Right, , Bad, 2-0-1, 3::, , , , , Male, , , 0, , , 
+6, E:\Zebras\mpala_50_set\images/img-0000211.jpg, 1    1  478  176, Jenifer, , Right, , Bad, 2-0-1, 3::, , , , , Female, , , 0, , , 
+7, E:\Zebras\mpala_50_set\images/img-0000212.jpg, 1    1  446  159, Jenifer, , Right, , Bad, 2-0-1, 3::, , , , , Female, , , 0, , , 
+8, E:\Zebras\mpala_50_set\images/img-0000214.jpg, 1    1  482  171, Gunter, , Right, , Bad, 2-0-1, 3::, , , , , Female, , , 0, , , 
+9, E:\Zebras\mpala_50_set\images/img-0001005.jpg, 1     1  1334   454, Antony, , Right, , Bad, 2-0-1, 3::, , , , , Female, , , 0, , , 
+10, E:\Zebras\mpala_50_set\images/img-0000472.jpg, 47.27556      7.577778      259.4356      100.3022, Jacob, , Left, , Bad, 2012-3-5, 4:4, , , , , Male, , , 0, , , 
